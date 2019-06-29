@@ -45,16 +45,16 @@ social media I use are [Keybase.io][kb], [Twitter][tweet], and [LinkedIn][in] -
 feel free to reach out on any.
 
 
-      [ar]: https://github.com/janko/sinatra-activerecord
-      [mg]: https://milligram.io/
-     [cdn]: https://www.cloudflare.com/learning/cdn/what-is-a-cdn/
-    [agpl]: https://www.gnu.org/licenses/agpl-3.0.html
-  [sqlite]: https://sqlite.org/index.html
- [sinatra]: http://sinatrarb.com/
+[ar]: https://github.com/janko/sinatra-activerecord
+[mg]: https://milligram.io/
+[cdn]: https://www.cloudflare.com/learning/cdn/what-is-a-cdn/
+[agpl]: https://www.gnu.org/licenses/agpl-3.0.html
+[sqlite]: https://sqlite.org/index.html
+[sinatra]: http://sinatrarb.com/
 [gnu-phil]: https://www.gnu.org/philosophy/philosophy.html
-   [tknbn]: https://github.com/AspenJames/tknbn
-   [tweet]: https://twitter.com/queer_coder
-    [fork]: https://github.com/AspenJames/sprinkle-in-time
-     [dev]: https://dev.to/aspenjames
-      [kb]: https://keybase.io/aspenjames
-      [in]: https://linkedin.com/in/aspenjames
+[tknbn]: https://github.com/AspenJames/tknbn
+[tweet]: https://twitter.com/queer_coder
+[fork]: https://github.com/AspenJames/sprinkle-in-time
+[dev]: https://dev.to/aspenjames
+[kb]: https://keybase.io/aspenjames
+[in]: https://linkedin.com/in/aspenjames
