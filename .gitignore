@@ -1,0 +1,10 @@
+# Notes file
+NOTES.md
+
+# Vim swap files
+*.swp
+*.swo
+
+# Database files
+*.sqlite
+*.sqlite3
