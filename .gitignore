@@ -8,3 +8,6 @@ NOTES.md
 # Database files
 *.sqlite
 *.sqlite3
+
+# Session key
+.session_key.rb
